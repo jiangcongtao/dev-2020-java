@@ -8,7 +8,7 @@
     <artifactId>experiment-apache-camel-fileconverter</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <env.camel.version>2.16.1</env.camel.version>
+        <env.camel.version>3.0.0</env.camel.version>
         <env.spring.version>4.2.4.RELEASE</env.spring.version>
     </properties>
 
